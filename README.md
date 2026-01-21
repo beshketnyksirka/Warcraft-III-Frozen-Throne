@@ -14,4 +14,4 @@ Language: Russian
 
 ***Download:***
 -----------
-[CLick here](https://github.com/beshketnyksirka/Warcraft-III-Frozen-Throne/releases/tag/1.26.0.6401)
+[CLick for download](https://github.com/beshketnyksirka/Warcraft-III-Frozen-Throne/releases/tag/1.26.0.6401)
