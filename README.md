@@ -1,4 +1,4 @@
-# ***Warcraft III Frozen Throne***
+# ***Warcraft III: Frozen Throne***
 
 <a href="https://github.com/beshketnyksirka/Warcraft-III-Frozen-Throne" title="Go to GitHub repo">
   <img src="https://img.shields.io/static/v1?label=beshketnyksirka&message=WarcraftIII-Frozen-Throne&color=purple&logo=github" alt="beshketnyksirka - Warcraft III: Frozen Throne">
